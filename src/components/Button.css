@@ -1,0 +1,20 @@
+.red{
+    color: red;
+
+}
+
+.yellow {
+    color: yellow;
+}
+
+.blue{
+    color: blue;
+    background-color: yellow;
+}
+
+.customRedYellow{
+    color: red;
+    background-color: yellow;
+    border-radius: 50%;
+    border: 2px solid red;
+}
